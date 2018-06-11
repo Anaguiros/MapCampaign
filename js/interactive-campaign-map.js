@@ -13,7 +13,7 @@ var protectorate = L.tileLayer.zoomify('./PROTECTORATE/{g}/{z}-{x}-{y}.jpg', {
     width: 1600, 
     height: 1138, 
     tolerance: 0.9,
-	layers: [players_protectorate],
+	layers: [players_protectorate, pnjs_protectorate],
     attribution: 'Map by SixMoreVodka'    // Change this value to whatever you like.
     });
 
@@ -40,6 +40,8 @@ var baseMaps = {
 // Creates overlayMaps layer and passes which marker groups to include in the layers control.
 var overlayMaps = {
     "Players Protectorat": players_protectorate,
+	"PNJS Protectorat": pnjs_protectorate,
+	"Voyage": voyage_layer,
 };
 
 players_protectorate.addTo(map)
@@ -48,14 +50,4 @@ players_protectorate.addTo(map)
 
 // Creates a switchable layers control from baseMaps and overlayMaps and adds them to map.
 L.control.layers(baseMaps, overlayMaps).addTo(map);
-
-var popup = L.popup();
-
-function onMapClick(e) {
-    popup
-        .setLatLng(e.latlng)
-        .setContent("You clicked the map at " + e.latlng.toString())
-        .openOn(map);
-}
-
-map.on('click', onMapClick);
+L.control.mousePosition().addTo(map);

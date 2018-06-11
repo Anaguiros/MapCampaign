@@ -5,12 +5,12 @@ var playerIcon = L.icon({
 });
 
 // Create the player popup content. You can change these to include player bios, army lists, etc for each individual player. Accepts HTML content such as images and links.
-var redPlayerPopup = 'TOTO';
-var yellowPlayerPopup = 'TITI';
-var bluePlayerPopup = 'TUTU';
-var orangePlayerPopup = 'TETE';
-var greenPlayerPopup = 'TATA';
-var blackPlayerPopup = 'TYTY';
+var redPlayerPopup = "<div><b>name :</b> TOTO</br><b>description :</b> blablabla</div>";
+var yellowPlayerPopup = "<div><b>name :</b> TITI</br><b>description :</b> blablabla</div>";
+var bluePlayerPopup = "<div><b>name :</b> TUTU</br><b>description :</b> blablabla</div>";
+var orangePlayerPopup = "<div><b>name :</b> TETE</br><b>description :</b> blablabla</div>";
+var greenPlayerPopup = "<div><b>name :</b> TATA</br><b>description :</b> blablabla</div>";
+var blackPlayerPopup = "<div><b>name :</b> TYTY</br><b>description :</b> blablabla</div>";
 
 // Creates the player markers, sets the latitude and longitude. Passes options for custom icon and custom popup values.
 var redPlayer_protectorate = L.marker(protectorate_justitian, {icon: L.icon({iconUrl: 'img/players_RED.png',iconSize: [38, 38],})}).bindPopup(redPlayerPopup);
