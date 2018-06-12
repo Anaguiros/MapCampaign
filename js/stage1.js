@@ -10,4 +10,4 @@ voyage_animate_marker.on('end', function() {
     .openPopup();
 });
 
-var voyage_layer = L.layerGroup([voyage,voyage_animate_marker], {pmIgnore: true});
+var voyage_layer = L.layerGroup([voyage,voyage_animate_marker]);
