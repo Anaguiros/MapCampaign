@@ -42,6 +42,7 @@ var overlayMaps = {
     "Players Protectorat": players_protectorate,
 	"PNJS Protectorat": pnjs_protectorate,
 	"Voyage": voyage_layer,
+	"Events": events_layer,
 };
 
 players_protectorate.addTo(map)
