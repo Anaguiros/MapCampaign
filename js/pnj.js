@@ -8,7 +8,7 @@ var playerIcon = L.icon({
 var redPNJPopup = "<div><b>name :</b> Robert</br><b>description :</b> Super PNJ qui va finir la campagne vivant</div>";
 
 // Creates the player markers, sets the latitude and longitude. Passes options for custom icon and custom popup values.
-var redPNJ_protectorate = L.marker(protectorate_justitian, {icon: L.icon({iconUrl: 'img/players_RED.png',iconSize: [38, 38],})}).bindPopup(redPNJPopup);
+var redPNJ_protectorate = L.marker(protectorate_justitian, {icon: L.icon({iconUrl: 'img/players_RED.png',iconSize: [38, 38],}), pmIgnore: true}).bindPopup(redPNJPopup);
 
 // Creates a group of player markers to be added to layer control later. Adds player markers to map.
 var pnjs_protectorate = L.layerGroup([redPNJ_protectorate]);
