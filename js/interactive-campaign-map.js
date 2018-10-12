@@ -9,7 +9,7 @@ var map = L.map('mapid', {
 // ########## INIT MAP LAYERS ##########
 
 //Creates the switchable map layers. Change the URL to reflect where you are hosting your map tiles. Width and Height of original image MUST be defined.
-var protectorate = L.tileLayer.zoomify('./PROTECTORATE/{g}/{z}-{x}-{y}.jpg', {
+var protectorate = L.tileLayer.zoomify('../PROTECTORATE/{g}/{z}-{x}-{y}.jpg', {
     width: 1600, 
     height: 1138, 
     tolerance: 0.9,
@@ -17,7 +17,7 @@ var protectorate = L.tileLayer.zoomify('./PROTECTORATE/{g}/{z}-{x}-{y}.jpg', {
     attribution: 'Map by SixMoreVodka'    // Change this value to whatever you like.
     });
 
-var worldmap = L.tileLayer.zoomify('./WORLDMAP/{g}/{z}-{x}-{y}.jpg', {
+var worldmap = L.tileLayer.zoomify('../WORLDMAP/{g}/{z}-{x}-{y}.jpg', {
     width: 1138, 
     height: 1600, 
     tolerance: 0.9, 
