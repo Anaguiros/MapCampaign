@@ -47,3 +47,16 @@ Temporary Items
 .apdisk
 
 ZoomifyFree-Win
+
+# GIS Data
+*.tif
+*.tif.aux.xml
+*.HGT
+*.HGT.aux.xml
+*.cpg
+*.dbf
+*.prj
+*.qpj
+*.shp
+*.shx
+*.gpkg
