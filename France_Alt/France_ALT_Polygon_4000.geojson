@@ -15,7 +15,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -103,7 +103,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -541,7 +541,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -699,7 +699,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -5207,7 +5207,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -5365,7 +5365,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -5483,7 +5483,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -5631,7 +5631,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -12699,7 +12699,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -13027,7 +13027,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -13095,7 +13095,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -13173,7 +13173,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -13931,7 +13931,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -13999,7 +13999,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -15377,7 +15377,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -15665,7 +15665,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -16113,7 +16113,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -16711,7 +16711,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -17409,7 +17409,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -17467,7 +17467,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -17875,7 +17875,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -18733,7 +18733,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -19091,7 +19091,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -19139,7 +19139,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -19647,7 +19647,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -19865,7 +19865,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -20143,7 +20143,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
@@ -23321,7 +23321,7 @@
         "extrude": 0,
         "visibility": -1,
         "drawOrder": null,
-        "icon": null, "time": 4000
+        "icon": null, "alt": 4000
       },
       "geometry": {
         "type": "Polygon",
