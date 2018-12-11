@@ -70,12 +70,14 @@
 
     for(let i=0; i<=47; i++){
         let altitude = i*100;
+		let visibility = false;
         if(altitude === 0){
             altitude = '000';
+			visibility = true;
         }
         layers.push(new ol.layer.Vector({
             renderMode: 'image',
-            visible: false,
+            visible: visibility,
             title: altitude,
             source: new ol.source.Vector({
                 url: 'France_Alt/France_ALT_Polygon_'+altitude+'.geojson',
